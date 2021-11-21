@@ -1,0 +1,13 @@
+#parent {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+}
+
+.food-image {
+        width: 50%;
+        height: 50%;
+}
+
+.background {
+    background-color: #d1dced
+}
